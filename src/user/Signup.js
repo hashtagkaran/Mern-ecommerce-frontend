@@ -8,7 +8,7 @@ const Signup = () => {
 		email: "",
 		password: "",
 		error: "",
-		success: flase,
+		success: false,
 	});
 
 	const { name, email, password, error, success } = values;
